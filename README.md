@@ -35,7 +35,7 @@ Place these CSV files in a folder named ml-20m/ in the project directory.
 🚀 How to Run
 Clone the repository:
 Open your terminal or command prompt and run the following command:
-git clone https://github.com/your-username/movie-recommender
+git clone : https://github.com/harshasangur48/Movie-Recommendation-System-Project.git
 cd movie-recommender
 
 Install required dependencies:
