@@ -25,6 +25,10 @@ Tkinter for creating the graphical user interface (GUI)
 📁 Files Required
 This project requires the following two CSV files from the MovieLens 20M dataset:
 
+Download link for the MovieLens 20M dataset:
+
+https://files.grouplens.org/datasets/movielens/ml-20m.zip
+
 ratings.csv
 
 movies.csv
